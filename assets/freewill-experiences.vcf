@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Experiences;Freewill;;;
+FN:Freewill Experiences
+ORG:Freewill Experiences
+TEL;TYPE=CELL,VOICE:+34692052961
+EMAIL;TYPE=INTERNET,WORK:info.freewillexperiences@gmail.com
+item1.ADR;TYPE=WORK:;;Calle Vicari Joaquim Fuster 94;Palma;Illes Balears;07006;España
+item1.X-ABADR:es
+item1.X-ABLabel:Trabajo
+LABEL;TYPE=WORK:Calle Vicari Joaquim Fuster 94\n07006 Palma\nEspaña
+item2.URL:https://www.google.com/maps/place/Freewill+Experiences+-+Boat+trip+%26+E-Foil+Mallorca/@39.5586495\,2.6752758\,17z
+item2.X-ABLabel:Google Maps
+item3.URL:https://www.instagram.com/freewill_experiences/
+item3.X-ABLabel:Instagram
+NOTE:E-Foil rentals and premium boat experiences in Mallorca
+END:VCARD
