@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 190" role="img" aria-labelledby="title">
+  <title id="title">Freewill Experiences</title>
+  <defs>
+    <linearGradient id="a" x1="0" x2="1"><stop stop-color="#11d7e6"/><stop offset=".52" stop-color="#9af7f1"/><stop offset="1" stop-color="#0f9fc0"/></linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#a)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M186 58c-29-39-78-41-103-8-21 28 1 67 34 66 24 0 43-20 62-41 25-28 48-52 78-46 30 6 41 39 27 62-13 22-45 28-68 12l-20-15"/>
+    <path d="m198 88 18-19 16 14 21-25 30 33"/>
+    <path d="M83 50c10 25 28 42 52 50"/>
+  </g>
+  <text x="280" y="151" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="42" letter-spacing="16">FREEWILL</text>
+  <path d="M93 174h86m202 0h86" stroke="#14c9dc" stroke-width="2"/>
+  <text x="280" y="181" text-anchor="middle" fill="#18cde0" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="10">EXPERIENCES</text>
+</svg>
